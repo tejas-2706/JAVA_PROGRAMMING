@@ -24,4 +24,3 @@ public class Java_Basics{
         System.out.println(a);
     }
 }
-java
